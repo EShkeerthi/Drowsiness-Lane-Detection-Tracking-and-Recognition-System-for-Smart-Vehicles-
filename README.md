@@ -5,4 +5,6 @@
 2.Opencv 4<br> 
 3.Numpy<br> 
 4.Dlib<br> 
-5.Scipy</h2></body></html>
+5.Scipy</h2>
+  <h6>&copy;Copyright Reserved by BHARATHI and team</h6>
+  </body></html>

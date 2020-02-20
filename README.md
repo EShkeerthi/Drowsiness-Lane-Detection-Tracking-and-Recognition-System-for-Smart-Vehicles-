@@ -6,5 +6,5 @@
 3.Numpy<br> 
 4.Dlib<br> 
 5.Scipy</h2>
-  <h6>&copy;Copyright Reserved by BHARATHI and team</h6>
+  <h6>&copy;Copyrights Reserved Bharathi and Team</h6>
   </body></html>

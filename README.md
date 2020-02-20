@@ -6,5 +6,5 @@
 3.Numpy<br> 
 4.Dlib<br> 
 5.Scipy</h2>
-  <h6>&copy;Copyrights Reserved by <b>B<spam>SE</spam>M</b> </h6>
+  <h6>&copy;Copyrights Reserved by <b>B<spam style="size:15px">SE</spam>M</b> </h6>
   </body></html>

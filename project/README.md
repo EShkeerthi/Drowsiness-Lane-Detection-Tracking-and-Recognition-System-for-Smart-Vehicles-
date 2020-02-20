@@ -13,4 +13,4 @@ Required Softwares/Libraries
 ## Updates
 
 **12/17/2018**</br>
-Article published on Medium.
+Article published by EShkeerthi.
